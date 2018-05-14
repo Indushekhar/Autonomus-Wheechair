@@ -1,0 +1,2 @@
+mybot_description:mybot_gazebo:mybot_navigation
+-DCATKIN_DEVEL_PREFIX=/home/indushekhar/project5_ws/devel -DCMAKE_INSTALL_PREFIX=/home/indushekhar/project5_ws/install -G Unix Makefiles
